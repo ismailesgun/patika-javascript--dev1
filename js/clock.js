@@ -30,4 +30,3 @@ let nameDOM = document.querySelector("#myName");
 
 nameDOM.innerHTML = `${firstName}`;
 
-showTime();
